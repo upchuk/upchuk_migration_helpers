@@ -1,0 +1,4 @@
+name: Upchuk migration helpers
+type: module
+description: 'Various helpers for migrations'
+core: 8.x

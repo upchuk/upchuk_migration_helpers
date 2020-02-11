@@ -1,0 +1,15 @@
+{
+    "name": "upchuk/upchuk_migration_helpers",
+    "description": "Provides various helpers for migrations.",
+    "type": "drupal-drush",
+    "require": {
+        "php": ">=7.1"
+    },
+    "extra": {
+        "drush": {
+            "services": {
+                "drush.services.yml": "^9"
+            }
+        }
+    }
+}

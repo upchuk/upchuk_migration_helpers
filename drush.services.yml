@@ -1,0 +1,5 @@
+services:
+  upchuk_migration_helpers.commands:
+    class: Drupal\upchuk_migration_helpers\Commands\MigrationCommands
+    tags:
+      - { name: drush.command }
