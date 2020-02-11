@@ -1,7 +1,7 @@
 {
     "name": "upchuk/upchuk_migration_helpers",
     "description": "Provides various helpers for migrations.",
-    "type": "drupal-drush",
+    "type": "drupal-module",
     "require": {
         "php": ">=7.1"
     },
