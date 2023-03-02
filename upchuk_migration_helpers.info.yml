@@ -1,4 +1,4 @@
 name: Upchuk migration helpers
 type: module
 description: 'Various helpers for migrations'
-core_version_requirement: ^8.8 || ^9
+core_version_requirement: ^8.8 || ^9 || ^10
